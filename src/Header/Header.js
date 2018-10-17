@@ -1,5 +1,6 @@
 import React from 'react';
 import img from './profil.png';
+import './Header.css';
 
 const header = () => {
     return (

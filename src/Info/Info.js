@@ -1,5 +1,6 @@
 import React from 'react';
 import * as jsoninfo from './PersonnalInfo.json';
+import './Info.css';
 
 const info = () => {
     const itSkills = jsoninfo[5].itskills

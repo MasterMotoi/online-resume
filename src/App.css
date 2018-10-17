@@ -2,60 +2,21 @@
   text-align: center;
 }
 
-.header, .navigation, .info, .interest, .school{
-  border: 1px solid #ccc;
-  margin: 10px;
-  box-shadow: 0 2px 2px #ccc;
-  padding: 20px;
-  border-radius: 10px;
-}
-
 .body{
   display: flex;
   justify-content: space-between;
 }
 
-.info, .navigation{
+.navigation{
+  border: 1px solid #ccc;
+  margin: 10px;
+  box-shadow: 0 2px 2px #ccc;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #48B6A8;
   height: fit-content;
   width: 20%;
   max-width: 20%;
-}
-
-.boxStuff {
-  width: 40%;
-  margin-left: 10%;
-  margin-right: 10%;
-}
-
-.header {
-  text-align: justify;
-  display: flex;
-  align-content: center;
-  justify-content: space-between;
-  align-items: center;
-  background-color: #E06721;
-  color: white;
-}
-
-img {
-  max-width: 200px;
-  max-height: 200px;
-  border-radius: 10px;
-}
-
-.experience{
-  text-align: justify;
-  padding: 50px;
-  padding-left: 10px;
-  margin: 20px;
-  width: 100%;
-  border: 1px solid #ccc;
-  box-shadow: 0 2px 2px #ccc;
-  border-radius: 10px;
-}
-
-.navigation, .info {
-  background-color: #48B6A8;
 }
 
 #middle {
@@ -80,21 +41,3 @@ img {
   background-color: #11514B;
 }
 
-.titleInfo {
-  font-weight: bold;
-}
-
-.listTitle {
-  color: #11514B;
-  font-size: 20px;
-}
-
-.listSubtitle {
-  color: #11514B;
-  font-size: 18px;
-}
-
-.interestTitle {
-  color: #EC974C;
-  font-size: 20px;
-}

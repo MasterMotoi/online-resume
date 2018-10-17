@@ -1,5 +1,6 @@
 import React from 'react';
 import * as schjson from "./School.json";
+import '../middlePart.css';
 
 const school = () => {
     const schoollist = schjson[0].listSchool

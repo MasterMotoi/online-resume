@@ -1,5 +1,6 @@
 import React from 'react';
 import * as expjson from "./experience.json";
+import '../middlePart.css';
 
 const experience = () => {
     const explist = expjson[0].listExperience

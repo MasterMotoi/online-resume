@@ -1,0 +1,35 @@
+.experience{
+  text-align: justify;
+  padding: 50px;
+  padding-left: 10px;
+  margin: 20px;
+  width: 100%;
+  border: 1px solid #ccc;
+  box-shadow: 0 2px 2px #ccc;
+  border-radius: 10px;
+}
+
+.boxStuff {
+  width: 40%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.titleInfo {
+  font-weight: bold;
+}
+
+.listTitle {
+  color: #11514B;
+  font-size: 20px;
+}
+
+.listSubtitle {
+  color: #11514B;
+  font-size: 18px;
+}
+
+.interestTitle {
+  color: #EC974C;
+  font-size: 20px;
+}

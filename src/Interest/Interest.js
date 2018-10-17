@@ -1,5 +1,6 @@
 import React from 'react';
 import * as intjson from "./Interest.json";
+import '../middlePart.css';
 
 const interest = () => {
     const interestlist = intjson[0].listInterest
