@@ -1,0 +1,41 @@
+[
+    {
+        "address": "22 Rue Jean Louis Renardon 69650 St Germain au Mont d'Or, France"
+    },
+    {
+        "phone": "+33 6 95 73 39 11"
+    },
+    {
+        "mail": "fab.plastina@gmail.com"
+    },
+    {
+        "birthday": "31/08/1998"
+    },
+    {
+        "english": "TOEIC simulation : 905/990"
+    },
+    {
+        "itskills": [
+            {"id": 1, "skill": "MySQL"},
+            {"id": 2, "skill": "Linux"},
+            {"id": 3, "skill": "C"},
+            {"id": 4, "skill": "C++"},
+            {"id": 5, "skill": "Java"},
+            {"id": 6, "skill": "HTML"},
+            {"id": 7, "skill": "CSS"},
+            {"id": 8, "skill": "SQL"},
+            {"id": 9, "skill": "Python"},
+            {"id": 10, "skill": "Cisco"},
+            {"id": 11, "skill": "XML"},
+            {"id": 12, "skill": "PHP"},
+            {"id": 13, "skill": "JavaScript (AngularJS and ReactJS)"},
+            {"id": 14, "skill": "Git"}
+        ]
+    },
+    {
+        "health": "PSC1"
+    },
+    {
+        "drive": "Driver Licence"
+    }
+]

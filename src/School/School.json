@@ -1,0 +1,22 @@
+[
+    {
+        "listSchool": [
+            {
+                "date": "2016 - Today",
+                "description": "Computer Science Engineering",
+                "place": "Cesi, Ecully France",
+                "course": [
+                    {"lesson": "Programmation"},
+                    {"lesson": "Network"},
+                    {"lesson": "Database"}
+                ]
+            },
+            {
+                "date": "2013 - 2016",
+                "description": "Engineer Science Diploma",
+                "place": "Jean Paul Sartre High School, Bron France",
+                "course": []
+            }
+        ]
+    }
+]

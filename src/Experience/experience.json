@@ -1,0 +1,41 @@
+[
+    { "listExperience" : [
+        {
+            "date": "May 2018 - January 2018",
+            "description": "Computer support Internship",
+            "place": "Strand Cosmetics Europe, Lentilly France",
+            "missions": 
+            [
+                {"task": "Database Management"},
+                {"task": "Connection of hardware to the network with microcomputer"},
+                {"task": "Computer maintenance"}
+            ]
+        },
+        {
+            "date": "September 2017 - October 2017",
+            "description": "Woofing",
+            "place": "Koleszar Pottery, PEI Canada",
+            "missions": [
+                {"task": "Farm help"},
+                {"task": "Taking care of animals"}
+            ]
+        },
+        {
+            "date": "January 2017 - September 2017",
+            "description": "Host Agent",
+            "place": "Groupama Stadium, Lyon France",
+            "missions": [
+                {"task": "Parking Help"}
+            ]
+        },
+        {
+            "date": "July 2016 - August 2016",
+            "description": "Windows and stores installer",
+            "place": "DMF Sarl, Balan France",
+            "missions": [
+                {"task": "Working as a carpenter"},
+                {"task": "Various tasks on site"}
+            ]
+        }
+    ]}
+]

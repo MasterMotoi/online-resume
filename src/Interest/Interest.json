@@ -1,0 +1,18 @@
+[
+    {
+        "listInterest": [
+            {
+                "title": "Travelling",
+                "description": "Visited many countries"
+            },
+            {
+                "title": "Sports",
+                "description": "Badminton, Climbing, Ski, Surf"
+            },
+            {
+                "title": "Reading",
+                "description": "Classics, Science-Fiction ..."
+            }
+        ]
+    }
+]
