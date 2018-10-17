@@ -1,0 +1,58 @@
+.App {
+  text-align: center;
+}
+
+.experience, .header, #navigation, .info, .interest, .school{
+  border: 1px solid #ccc;
+  margin: 10px;
+  box-shadow: 0 2px 2px #ccc;
+  padding: 20px;
+}
+
+.body{
+  display: flex;
+  justify-content: space-between;
+}
+
+.info, #navigation{
+  height: fit-content;
+  width: 20%;
+}
+
+.header {
+  text-align: justify;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #E06721;
+  color: white;
+}
+
+.experience{
+  max-width: 40%;
+}
+
+#navigation, .info {
+  background-color: #48B6A8;
+}
+
+#middle {
+  border-top-style:  solid;
+  border-bottom-style:  solid;
+}
+
+#navigation li, #middle, .info {
+  color: white;
+  list-style-type: none;
+  margin: 15px;
+  font-size: 20px;
+  padding: 60px;
+}
+
+#navigation li {
+  cursor: pointer;
+}
+
+#navigation li:hover {
+  background-color: #669C95;
+}
