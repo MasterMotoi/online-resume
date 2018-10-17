@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
 import Experience from './Experience/Experience';
-import Navigation from './Navigation/Navigation';
 import Header from './Header/Header';
 import Info from './Info/Info';
 import School from './School/School';
@@ -23,9 +22,9 @@ class App extends Component {
       <div className="App">
         <Header />
         <div className="body">
-          <ul id="navigation">
+          <ul className="navigation">
             <li onClick={this.displayedHandler.bind(this, <Experience />)}>Professionnal experiences</li>
-            <li id="middle" onClick={this.displayedHandler.bind(this, <School />)}>Education</li>
+            <div id="middle"><li is="middleText" onClick={this.displayedHandler.bind(this, <School />)}>Education</li></div>
             <li onClick={this.displayedHandler.bind(this, <Interest />)}>Other Interest</li>
           </ul>
           {this.state.displayed}

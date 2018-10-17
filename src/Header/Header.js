@@ -1,4 +1,5 @@
 import React from 'react';
+import img from './profil.png';
 
 const header = () => {
     return (
@@ -8,7 +9,7 @@ const header = () => {
                 <h2>Etudiant Ingénieur Informatique</h2>
             </div>
             <div>
-                <img src="..\img\profil.png" alt="Profil picture" />
+                <img src={img} alt="Profil picture" />
             </div>
         </div>
     )
